@@ -2,7 +2,7 @@
 
 Welcome to my football data analytics portfolio. This repository contains a collection of tactical reports, interactive recruitment dashboards, and statistical case studies designed for professional football environments.
 
-The core objective of these projects is to (get a jobat a football club) bridge the gap between rigorous data engineering and accessible, actionable insights for coaching staff, scouts, and recruitment departments.
+The core objective of these projects is to (get a job at a football club) bridge the gap between rigorous data engineering and accessible, actionable insights for coaching staff, scouts, and recruitment departments.
 
 ---
 
